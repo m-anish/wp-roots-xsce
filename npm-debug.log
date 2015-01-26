@@ -1,0 +1,100 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install' ]
+2 info using npm@1.3.10
+3 info using node@v0.10.25
+4 verbose readDependencies using package.json deps
+5 verbose install where, deps [ '/vagrant/wordpress/wp-content/themes/roots-master',
+5 verbose install   [ 'bower',
+5 verbose install     'grunt',
+5 verbose install     'grunt-autoprefixer',
+5 verbose install     'grunt-contrib-concat',
+5 verbose install     'grunt-contrib-jshint',
+5 verbose install     'grunt-contrib-less',
+5 verbose install     'grunt-contrib-uglify',
+5 verbose install     'grunt-contrib-watch',
+5 verbose install     'grunt-modernizr',
+5 verbose install     'grunt-wp-assets',
+5 verbose install     'load-grunt-tasks',
+5 verbose install     'time-grunt',
+5 verbose install     'holderjs' ] ]
+6 info preinstall roots@7.0.3
+7 verbose readDependencies using package.json deps
+8 verbose already installed skipping grunt-autoprefixer@~1.0.1 /vagrant/wordpress/wp-content/themes/roots-master
+9 verbose already installed skipping bower@>=1.3.12 /vagrant/wordpress/wp-content/themes/roots-master
+10 verbose already installed skipping grunt@~0.4.5 /vagrant/wordpress/wp-content/themes/roots-master
+11 verbose already installed skipping grunt-contrib-concat@~0.5.0 /vagrant/wordpress/wp-content/themes/roots-master
+12 verbose already installed skipping grunt-contrib-jshint@~0.10.0 /vagrant/wordpress/wp-content/themes/roots-master
+13 verbose already installed skipping grunt-contrib-uglify@~0.6.0 /vagrant/wordpress/wp-content/themes/roots-master
+14 verbose already installed skipping grunt-contrib-less@~0.12.0 /vagrant/wordpress/wp-content/themes/roots-master
+15 verbose already installed skipping grunt-contrib-watch@~0.6.1 /vagrant/wordpress/wp-content/themes/roots-master
+16 verbose already installed skipping grunt-modernizr@~0.6.0 /vagrant/wordpress/wp-content/themes/roots-master
+17 verbose already installed skipping grunt-wp-assets@~0.2.6 /vagrant/wordpress/wp-content/themes/roots-master
+18 verbose already installed skipping time-grunt@~1.0.0 /vagrant/wordpress/wp-content/themes/roots-master
+19 verbose already installed skipping load-grunt-tasks@~1.0.0 /vagrant/wordpress/wp-content/themes/roots-master
+20 verbose cache add [ 'holderjs@>=2.4.1', null ]
+21 verbose cache add name=undefined spec="holderjs@>=2.4.1" args=["holderjs@>=2.4.1",null]
+22 verbose parsed url { protocol: null,
+22 verbose parsed url   slashes: null,
+22 verbose parsed url   auth: null,
+22 verbose parsed url   host: null,
+22 verbose parsed url   port: null,
+22 verbose parsed url   hostname: null,
+22 verbose parsed url   hash: null,
+22 verbose parsed url   search: null,
+22 verbose parsed url   query: null,
+22 verbose parsed url   pathname: 'holderjs@%3E=2.4.1',
+22 verbose parsed url   path: 'holderjs@%3E=2.4.1',
+22 verbose parsed url   href: 'holderjs@%3E=2.4.1' }
+23 verbose cache add name="holderjs" spec=">=2.4.1" args=["holderjs",">=2.4.1"]
+24 verbose parsed url { protocol: null,
+24 verbose parsed url   slashes: null,
+24 verbose parsed url   auth: null,
+24 verbose parsed url   host: null,
+24 verbose parsed url   port: null,
+24 verbose parsed url   hostname: null,
+24 verbose parsed url   hash: null,
+24 verbose parsed url   search: null,
+24 verbose parsed url   query: null,
+24 verbose parsed url   pathname: '%3E=2.4.1',
+24 verbose parsed url   path: '%3E=2.4.1',
+24 verbose parsed url   href: '%3E=2.4.1' }
+25 verbose addNamed [ 'holderjs', '>=2.4.1' ]
+26 verbose addNamed [ null, '>=2.4.1' ]
+27 silly lockFile f6fdd3e0-holderjs-2-4-1 holderjs@>=2.4.1
+28 verbose lock holderjs@>=2.4.1 /home/vagrant/.npm/f6fdd3e0-holderjs-2-4-1.lock
+29 silly addNameRange { name: 'holderjs', range: '>=2.4.1', hasData: false }
+30 verbose url raw holderjs
+31 verbose url resolving [ 'https://registry.npmjs.org/', './holderjs' ]
+32 verbose url resolved https://registry.npmjs.org/holderjs
+33 info trying registry request attempt 1 at 10:25:08
+34 http GET https://registry.npmjs.org/holderjs
+35 http 404 https://registry.npmjs.org/holderjs
+36 silly registry.get cb [ 404,
+36 silly registry.get   { date: 'Mon, 26 Jan 2015 10:22:51 GMT',
+36 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+36 silly registry.get     'content-type': 'application/json',
+36 silly registry.get     'cache-control': 'max-age=0',
+36 silly registry.get     'content-length': '52',
+36 silly registry.get     'accept-ranges': 'bytes',
+36 silly registry.get     via: '1.1 varnish',
+36 silly registry.get     age: '0',
+36 silly registry.get     'x-served-by': 'cache-lax1420-LAX',
+36 silly registry.get     'x-cache': 'MISS',
+36 silly registry.get     'x-cache-hits': '0',
+36 silly registry.get     'x-timer': 'S1422267771.122017,VS0,VE309',
+36 silly registry.get     'keep-alive': 'timeout=10, max=50',
+36 silly registry.get     connection: 'Keep-Alive' } ]
+37 silly lockFile f6fdd3e0-holderjs-2-4-1 holderjs@>=2.4.1
+38 silly lockFile f6fdd3e0-holderjs-2-4-1 holderjs@>=2.4.1
+39 error 404 'holderjs' is not in the npm registry.
+39 error 404 You should bug the author to publish it
+39 error 404
+39 error 404 Note that you can also install from a
+39 error 404 tarball, folder, or http url, or git url.
+40 error System Linux 3.13.0-44-generic
+41 error command "/usr/bin/nodejs" "/usr/bin/npm" "install"
+42 error cwd /vagrant/wordpress/wp-content/themes/roots-master
+43 error node -v v0.10.25
+44 error npm -v 1.3.10
+45 error code E404
+46 verbose exit [ 1, true ]
