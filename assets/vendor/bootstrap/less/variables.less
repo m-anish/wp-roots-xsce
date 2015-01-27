@@ -50,7 +50,7 @@
 @font-family-base:        @font-family-sans-serif;
 
 @font-size-base:          14px;
-@font-size-large:         ceil((@font-size-base * 1.25)); // ~18px
+@font-size-large:         (ceil(@font-size-base * 1.25)); // ~18px
 @font-size-small:         ceil((@font-size-base * 0.85)); // ~12px
 @font-size-brand:         ceil((@font-size-base * 2.15)); // ~30px
 
@@ -360,7 +360,7 @@
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
 @navbar-collapse-max-height:       340px;
 
-@navbar-default-color:             #777;
+@navbar-default-color:             @gray-light;
 @navbar-default-bg:                #f8f8f8;
 @navbar-default-border:            darken(@navbar-default-bg, 6.5%);
 
@@ -374,7 +374,7 @@
 @navbar-default-link-disabled-bg:          transparent;
 
 // Navbar brand label
-@navbar-default-brand-color:               @navbar-default-link-color;
+@navbar-default-brand-color:               @gray;
 @navbar-default-brand-hover-color:         darken(@navbar-default-brand-color, 10%);
 @navbar-default-brand-hover-bg:            transparent;
 
@@ -480,12 +480,14 @@
 //
 //##
 
-@jumbotron-padding:              30px;
-@jumbotron-color:                @gray-light;
+@jumbotron-padding:              20px;
+@jumbotron-color:                @gray;
 @jumbotron-bg:                   @gray-lighter;
 @jumbotron-heading-color:        inherit;
-@jumbotron-font-size:            ceil((@font-size-base * 1.5));
-
+@jumbotron-font-size:            ceil((@font-size-base * 1.1));
+@jumbotron-line-height:          1.4;
+@jumbotron-font-family:          @headings-font-family;
+@jumbotron-font-weight:          @headings-font-weight;
 
 //== Form states and alerts
 //

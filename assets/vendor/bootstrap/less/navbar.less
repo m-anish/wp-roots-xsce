@@ -164,11 +164,11 @@
 .navbar-brand {
   float: left;
   padding: @navbar-padding-vertical @navbar-padding-horizontal;
-  font-size: @font-size-h1;
-  font-family: @headings-font-family;
-  font-weight: @headings-font-weight;
-  line-height: @headings-line-height;
+  font-size: ceil(@font-size-h1 * 1.35);
+  font-family: 'Open Sans', Lato, sans-serif;
+  font-weight: 400;
   line-height: @line-height-computed;
+  letter-spacing: -2px;
   height: @navbar-height;
 
   &:hover,

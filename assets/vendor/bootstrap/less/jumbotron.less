@@ -8,15 +8,28 @@
   margin-bottom: @jumbotron-padding;
   color: @jumbotron-color;
   background-color: @jumbotron-bg;
+  line-height: @jumbotron-line-height;
+  font-weight: @jumbotron-font-weight;
+  font-family: @headings-font-family;
 
   h1,
   .h1 {
     color: @jumbotron-heading-color;
+    margin-top: 0px;
+    margin-bottom: @jumbotron-padding;
+  }
+  h2,
+  .h2 {
+    color: @jumbotron-heading-color;
+    margin-top: 0px;
+    margin-bottom: @jumbotron-padding;
   }
   p {
     margin-bottom: (@jumbotron-padding / 2);
     font-size: @jumbotron-font-size;
-    font-weight: 200;
+    font-family: 'Open Sans', Lato, sans-serif;
+    color: @gray-light;
+    line-height: (@jumbotron-line-height * 0.9);
   }
 
   > hr {
@@ -43,7 +56,11 @@
 
     h1,
     .h1 {
-      font-size: (@font-size-base * 4.5);
+      font-size: (ceil(@font-size-base * 3.5));
+    }
+    h2,
+    .h2 {
+      font-size: (ceil(@font-size-base * 2.0));
     }
   }
 }
