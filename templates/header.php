@@ -7,6 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      <img class="navbar-brand" src="wp-content/themes/roots-master/assets/img/xsce-draft-icon.png" style="padding-bottom: 20px; padding-top: 22px;"/>
       <a class="navbar-brand" href="<?php echo esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a>
     </div>
 
