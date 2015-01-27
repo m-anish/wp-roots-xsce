@@ -8,7 +8,7 @@
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-6">
-      <img class="img-responsive" data-holder-rendered="true" src="wp-content/uploads/2015/01/xs_icon.png" alt="XSCE image">
+      <img class="img-responsive" data-holder-rendered="true" src="xs_icon.png" alt="XSCE image">
     </div>
   </div>
 </div>
