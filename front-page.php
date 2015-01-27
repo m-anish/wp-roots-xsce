@@ -1,13 +1,13 @@
 <!-- Main jumbotron for school server marketing message -->
 <div class="jumbotron">
-  <div class="container">
-    <div class="col-md-7">
+  <div class="container" style="padding-left: 0px; padding-right: 0px;">
+    <div class="col-md-6">
       <h2>The digital backbone for your education revolution</h2>
       <h4>Schoolserver is an open-education project inspired by OLPC to provide breakthrough digital learning tools to the world's poorest children.</h4>
       <p>Schoolserver is available in many flavors from cloud images to solar powered appliances. Find out what is the best fit for you.</p>
       <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-6">
       <img class="img-responsive" data-holder-rendered="true" src="wp-content/uploads/2015/01/xs_icon.png" alt="XSCE image">
     </div>
   </div>
