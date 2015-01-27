@@ -350,7 +350,11 @@
 
 // Basics of a navbar
 @navbar-height:                    90px;
-@navbar-margin-bottom:             @line-height-computed;
+
+// Our navbar shouldn't have a bottom margin, as our jumbotron is
+// full width and needs to stick to the navbar. It's original value
+// was @line-height-computed;
+@navbar-margin-bottom:             0px;
 @navbar-border-radius:             @border-radius-base;
 @navbar-padding-horizontal:        floor((@grid-gutter-width / 2));
 @navbar-padding-vertical:          ((@navbar-height - @line-height-computed) / 2);
