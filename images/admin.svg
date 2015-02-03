@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3099" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140" width="140" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3104">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1-0" transform="matrix(0.86932936,0,0,0.86932936,5.8895492,-810.87283)">
+  <path id="path2989" fill="#ccc" d="m43.239,932.92c-2.8839,0-5.7205,0.25624-8.4708,0.72498l-1.3355,14.223c-2.8444,0.79287-5.5425,1.8991-8.0606,3.3196l-10.989-9.0718c-4.6419,3.286-8.7051,7.32-11.991,11.962l9.1004,10.989c-1.4188,2.5151-2.546,5.22-3.3387,8.0606l-14.204,1.345c-0.46893,2.75-0.72498,5.5798-0.72498,8.4899,0,2.8898,0.25435,5.7152,0.72498,8.4708l14.204,1.3355c0.79274,2.8405,1.92,5.5454,3.3387,8.0605l-9.0718,10.989c3.2796,4.6293,7.3141,8.6825,11.943,11.962l11.008-9.1002c2.5197,1.4217,5.2142,2.555,8.0606,3.3482l1.3355,14.223c2.5982,0.4428,5.2751,0.6811,7.9938,0.7059v-30.992c-10.296-0.2533-18.573-8.674-18.573-19.031,0-10.516,8.5337-19.05,19.05-19.05,10.235,0,18.555,8.0829,18.992,18.21h30.983c-0.0465-2.584-0.29363-5.119-0.71544-7.5932l-14.204-1.345c-0.79274-2.8406-1.92-5.536-3.3387-8.0511l9.1004-10.989c-3.2855-4.6423-7.3487-8.6858-11.991-11.972l-10.986,9.13c-2.5181-1.4205-5.2162-2.5267-8.0606-3.3196l-1.3355-14.223c-2.7503-0.46874-5.5584-0.72497-8.4422-0.72497v-0.0382z"/>
+ </g>
+ <g id="g4898" transform="translate(-57.417812,-750.64179)">
+  <g id="g4932" transform="matrix(0.28750588,0,0,0.28750588,29.106632,656.17608)" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="12.19142246" fill="none">
+   <rect id="rect4878-1" stroke-linejoin="round" style="enable-background:accumulate;color:black;" stroke-dasharray="none" stroke-dashoffset="0" ry="34.345" height="310.12" width="310.12" stroke="#ccc" stroke-linecap="round" stroke-miterlimit="4" y="499.3" x="269.21" stroke-width="12.191" fill="none"/>
+  </g>
+ </g>
+ <g id="g4794-4" transform="matrix(0.23367372,0,0,0.23367372,59.432247,92.091995)">
+  <g id="Calque_1-9" transform="translate(-14,-14)">
+   <polygon id="polygon5-2" points="49.045,71,91.695,33.529,83.512,24.217,50.039,53.627,38.365,40.344,29.188,48.405,40.865,61.688,48.765,70.682" fill="#777"/>
+  </g>
+  <g id="Calque_2-7" transform="translate(-14,-14)">
+   <path id="path8-1" d="M77,77h-54v-54h54v1.541l7.47-6.547c-1.614-2.408-4.354-3.994-7.47-3.994h-54c-4.97,0-9,4.03-9,9v54c0,4.969,4.03,9,9,9h54c4.971,0,9-4.031,9-9v-33.143l-9,7.907v25.236z" fill="#ccc"/>
+  </g>
+ </g>
+ <g id="layer1-3" transform="matrix(1.0543878,0,0,1.0543878,98.419448,55.148265)">
+  <rect id="rect3465" ry="0" height="0" width="6" y="12.5" x="16" fill="#427bc3"/>
+  <g id="g2525">
+   <path id="rect3236" fill="#777" d="m8,2h7v25h-7v-25z"/>
+   <path id="rect3238" fill="#999" d="m15,9h7v18h-7v-18z"/>
+   <path id="rect3240" fill="#ccc" d="m22,18h7v9h-7v-9z"/>
+   <path id="rect3242" fill="#777" d="m9,3h5v24h-5v-24z"/>
+   <path id="rect3244" fill="#999" d="m16,10h5v17h-5v-17z"/>
+   <path id="rect3246" fill="#ccc" d="m23,19h5v8h-5v-8z"/>
+   <path id="rect3248" fill="#ccc" d="M1,13h7v14h-7v-14z"/>
+   <path id="rect3250" fill="#ccc" d="M2,14h5v13h-5v-13z"/>
+   <path id="rect3252" fill="#333" d="m0.5,27h29c0.277,0,0.5,0.223,0.5,0.5s-0.223,0.5-0.5,0.5h-29c-0.277,0-0.5-0.223-0.5-0.5s0.223-0.5,0.5-0.5z"/>
+  </g>
+ </g>
+ <rect id="rect4938" style="enable-background:accumulate;color:black;" fill-rule="evenodd" ry="3.1866" height="6.8453" width="48.626" y="98.951" x="81.426" fill="#ccc"/>
+ <rect id="rect4938-50" style="enable-background:accumulate;color:black;" fill-rule="evenodd" ry="0" height="22.188" width="33.046" y="62.483" x="59.432" fill="#ccc"/>
+ <rect id="rect4938-9" style="enable-background:accumulate;color:black;" fill-rule="evenodd" ry="3.1866" height="6.8453" width="48.626" y="120.45" x="81.426" fill="#ccc"/>
+ <g id="g4794-4-7" transform="matrix(0.23367372,0,0,0.23367372,59.432247,113.58997)">
+  <g id="Calque_1-9-9" transform="translate(-14,-14)">
+   <polygon id="polygon5-2-5" points="40.865,61.688,48.765,70.682,49.045,71,91.695,33.529,83.512,24.217,50.039,53.627,38.365,40.344,29.188,48.405" fill="#777"/>
+  </g>
+  <g id="Calque_2-7-9" transform="translate(-14,-14)">
+   <path id="path8-1-1" d="M77,77h-54v-54h54v1.541l7.47-6.547c-1.614-2.408-4.354-3.994-7.47-3.994h-54c-4.97,0-9,4.03-9,9v54c0,4.969,4.03,9,9,9h54c4.971,0,9-4.031,9-9v-33.143l-9,7.907v25.236z" fill="#ccc"/>
+  </g>
+ </g>
+</svg>

@@ -13,28 +13,36 @@
   </div>
 </div>
 
-<div class="container">
+<div class="container marketing">
   <!-- Example row of columns -->
   <div class="row">
-    <div class="col-md-3">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/media.svg" alt="Media" style="width: 140px; height: 140px;">
+      <h3>Media</h3>
+      <p>Resources like Wikipedia, OpenStreetMaps, project Gutenberg and many more made available offline depending on your needs.  Tools that empower learners to create, remix and share resources and knowledge.</p>
+      <h4>Your Internet&nbsp;in&nbsp;a&nbsp;Box!</h4>
+      <p><a class="btn btn-default" href="#" role="button">Explore &raquo;</a></p>
     </div>
-    <div class="col-md-3">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/connectivity.svg" alt="Connectivity" style="width: 140px; height: 140px;">
+      <h3>Connectivity</h3>
+      <p>Network configuration can be a big challenge in remote regions. Schoolserver provides automatic network setup, supports 3G modems and even wireless self configuring mesh networks.</p>
+      <h4>No sysadmins were harmed in the making of this product&nbsp;&nbsp;&nbsp;:-)</h4>
+      <p><a class="btn btn-default" href="#" role="button">Connect &raquo;</a></p>
    </div>
-    <div class="col-md-3">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/admin.svg" alt="Administration" style="width: 140px; height: 140px;">
+      <h3>Administration</h3>
+      <p>Software to manage school operations and visualize detailed analytics on student performance. A host of technical tools to monitor, debug and fix problems with your digital infrastructure.</p>
+      <h4>Easier&nbsp;management, visible&nbsp;results!</h4>
+      <p><a class="btn btn-default" href="#" role="button">Manage &raquo;</a></p>
     </div>
-    <div class="col-md-3">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/flexibility.svg" alt="Flexibility" style="width: 140px; height: 140px;">
+      <h3>Flexibility</h3>
+      <p>The ultimate aim of Schoolserver is to fit <b>your needs</b>. Being GNU/Linux based, it runs on a variety of hardware backed by an active community. Most apps and tools have levers to allow easy installation and configuration.</p>
+      <h4>Make it so!</h4>
+      <p><a class="btn btn-default" href="#" role="button">Tinker &raquo;</a></p>
     </div>
   </div>
 

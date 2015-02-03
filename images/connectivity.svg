@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140" width="140" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title id="title8321">Wireless Symbol</title>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Wireless Symbol</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Scott Gilliland</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:description>A symbol that looks like a radio tower with radio waves.</dc:description>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <path id="path2987" style="baseline-shift:baseline;block-progression:tb;color:black;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="M19.758,0c-9.7971,9.7928-15.86,23.326-15.86,38.253s6.0639,28.44,15.86,38.23h0.02237l3.1318-3.1318c-8.98-8.974-14.54-21.38-14.54-35.098s5.537-26.122,14.518-35.099zm100.48,0.02237-3.1318,3.1318c8.9765,8.9765,14.518,21.38,14.518,35.099,0,13.718-5.5435,26.124-14.518,35.099l3.1318,3.1318c9.7909-9.7909,15.86-23.303,15.86-38.23,0-14.922-6.0743-28.439-15.86-38.23zm-86.16,8.2993c-7.6686,7.6686-12.438,18.251-12.438,29.931s4.7431,22.264,12.415,29.931h0.02237l3.1318-3.1318c-6.856-6.8504-11.096-16.329-11.096-26.799,0-10.471,4.2433-19.947,11.096-26.799zm71.862,0-3.1542,3.1318c0.004,0.0038-0.004,0.01855,0,0.02237,6.8409,6.8514,11.073,16.312,11.073,26.777,0,10.471-4.2283,19.949-11.073,26.799l3.1542,3.1318c7.6611-7.6667,12.393-18.251,12.393-29.931s-4.7291-22.263-12.393-29.931zm-57.406,8.4783c-5.4993,5.4993-8.9033,13.083-8.9033,21.453,0,8.3703,3.4012,15.956,8.9033,21.453h0.02237l3.1318-3.1318c-4.6858-4.6802-7.5835-11.16-7.5835-18.321,0-7.1613,2.9004-13.638,7.5835-18.321zm42.928,0-3.1542,3.1318c0.0036,0.0037-0.0036,0.01862,0,0.02237,4.6718,4.6821,7.5611,11.143,7.5611,18.299,0,7.1613-2.8865,13.641-7.5611,18.321l3.1542,3.1318c5.4909-5.4965,8.8809-13.083,8.8809-21.453,0-8.3703-3.3863-15.954-8.8809-21.453z" stroke="#ccc" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="#ccc"/>
+ <path id="path2985" style="enable-background:accumulate;color:black;" fill="#777" d="m79.503,38.253a9.5031,9.5031,0,0,1,-19.006,0,9.5031,9.5031,0,1,1,19.006,0z"/>
+ <g id="g3953" transform="matrix(0.57847143,0,0,0.46927727,-136.59693,-172.3768)" stroke="#777" stroke-dasharray="none" stroke-miterlimit="4" fill="none">
+  <path id="path3821" stroke-linejoin="bevel" d="m308.21,658.79,48.929-174.29,48.929,174.29" stroke-linecap="square" stroke-width="4.79826569"/>
+  <g id="g3914" stroke-linejoin="miter" transform="translate(-155.3229,39.597991)" stroke-linecap="butt" stroke-width="4.79826569">
+   <path id="path3823" d="m465.18,609.56,82.58-41.307"/>
+   <path id="path3823-6" d="M559.76,609.56,477.18,568.25"/>
+  </g>
+  <g id="g3914-5" stroke-linejoin="miter" transform="matrix(0.60945085,0,0,0.60945085,44.820158,225.80818)" stroke-linecap="butt" stroke-width="7.87309705">
+   <path id="path3823-7" d="m465.18,609.56,82.58-41.307"/>
+   <path id="path3823-6-6" d="M559.76,609.56,477.18,568.25"/>
+  </g>
+  <g id="g3914-9" stroke-linejoin="miter" transform="matrix(0.51136035,0,0,0.51136035,95.088178,249.87912)" stroke-linecap="butt" stroke-width="9.38333542">
+   <path id="path3823-1" d="m465.18,609.56,82.58-41.307"/>
+   <path id="path3823-6-4" d="M559.76,609.56,477.18,568.25"/>
+  </g>
+ </g>
+</svg>
