@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3820" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="140" width="140" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata3825">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-301.40625,-659.96875)">
+  <path id="path3033" stroke-linejoin="miter" d="m408.66,766.72-88.86,0c-8.2907,0-15.036-6.7448-15.036-15.034,0-7.034,4.855-12.955,11.389-14.588,2.916-7.2885,9.6594-12.509,17.524-13.446,0.82894-16.923,14.857-30.436,31.982-30.436,12.55,0,23.751,7.3778,28.95,18.333,4.2686-2.3322,9.0783-3.5743,14.051-3.5743,16.196,0,29.374,13.176,29.374,29.373,0,16.196-13.176,29.373-29.374,29.373z" stroke="#777" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="6.73012877000000032" fill="none"/>
+  <g id="g3895" fill="#000" transform="matrix(1.1666667,0,0,1.1666667,222.65916,681.73645)">
+   <g id="g4414" fill="#000" transform="matrix(0.75,0,0,0.75,26.49488,24.574106)"></g>
+  </g>
+  <g id="g4471" transform="matrix(0.20821119,0,0,0.20821119,336.50792,595.58975)" stroke="#777" stroke-dasharray="none" stroke-miterlimit="4" stroke-width="20.4607048">
+   <g id="g4544">
+    <g id="g4555" transform="translate(0,-9.6056317)" stroke="#777" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" fill="none">
+     <g id="g4550" stroke-linejoin="round" stroke-width="30.59393692">
+      <path id="path4441" d="m93.183,677.23c71.23,66.546,71.911,67.182,71.911,67.182"/>
+      <path id="path4441-9" d="m241.94,677.23c-71.23,66.546-71.911,67.182-71.911,67.182"/>
+      <path id="path4461" d="m167.56,744.41,0-166.33"/>
+     </g>
+     <path id="path4469" stroke-linejoin="miter" d="m35.938,769.94,263.25,0" stroke-width="20.45999527"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

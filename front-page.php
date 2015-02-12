@@ -34,7 +34,7 @@
       <img class="img" src="<?php bloginfo('template_directory'); ?>/images/admin.svg" alt="Administration" style="width: 140px; height: 140px;">
       <h3>Administration</h3>
       <p>Software to manage school operations and visualize detailed analytics on student performance. A host of technical tools to monitor, debug and fix problems with your digital infrastructure.</p>
-      <h4>Easier&nbsp;management, visible&nbsp;results!</h4>
+      <h4>Easier&nbsp;management, visible&nbsp;outcomes!</h4>
       <p><a class="btn btn-default" href="#" role="button">Manage &raquo;</a></p>
     </div>
     <div class="col-lg-3">
@@ -48,6 +48,7 @@
 
   <hr>
   
+  </br></br>
   <!-- Carousel
   ================================================== -->
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -99,8 +100,38 @@
     </a>
   </div><!-- /.carousel -->
 
+  </br></br>
   <hr>
 
+  <!-- Example row of columns -->
+  <div class="row">
+    </br>
+    </br></br>
+    <h1 class="text-center">Get your copy today</h1>
+    </br></br>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/cloud_download.svg" alt="Cloud" style="width: 140px; height: 140px;">
+      <h3>Cloud</h3>
+      <p></p>
+    </div>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/appliance.svg" alt="Appliance" style="width: 140px; height: 140px;">
+      <h3>Appliance</h3>
+      <p></p>
+   </div>
+    <div class="col-lg-3">
+      <a href="http://github.com/XSCE/xsce" target="_blank"><img class="img" src="<?php bloginfo('template_directory'); ?>/images/code.svg" alt="Source" style="width: 140px; height: 140px;"></a>
+      <h3>Source</h3>
+      <p></p>
+    </div>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/more.svg" alt="More options" style="width: 140px; height: 140px;">
+      <h3>Other options</h3>
+      <p></p>
+    </div>
+  </div>
+
+  <hr>
   <?php while (have_posts()) : the_post(); ?>
     <?php get_template_part('templates/page', 'header'); ?>
   
