@@ -46,11 +46,14 @@
     </div>
   </div>
 
-  <hr>
-  
   </br></br>
+  <hr>
+  </br></br>
+
   <!-- Carousel
   ================================================== -->
+  <h1 class="text-center">See the schoolserver in action</h1>
+  </br>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -102,13 +105,19 @@
 
   </br></br>
   <hr>
+  </br></br>
 
   <!-- Example row of columns -->
   <div class="row">
-    </br>
-    </br></br>
-    <h1 class="text-center">Get your copy today</h1>
-    </br></br>
+    <div class="col-md-1" >
+    </div>
+    <div class="col-md-10" >
+      <h4 class="text-center">Whether your project is in a remote village without electricity or a large city; or whether you want to deploy in a single classroom or a large set of schools, we have a schoolserver setup that will fit and evolve with your requirements.</h4>
+      <h1 class="text-center">Get your copy today</h1>
+      </br></br>
+    </div>
+    <div class="col-md-1" >
+    </div>
     <div class="col-lg-3">
       <img class="img" src="<?php bloginfo('template_directory'); ?>/images/cloud_download.svg" alt="Cloud" style="width: 140px; height: 140px;">
       <h3>Cloud</h3>
@@ -126,17 +135,67 @@
     </div>
     <div class="col-lg-3">
       <img class="img" src="<?php bloginfo('template_directory'); ?>/images/more.svg" alt="More options" style="width: 140px; height: 140px;">
-      <h3>Other options</h3>
+      <h3>Help me choose!</h3>
       <p></p>
     </div>
   </div>
 
+  </br></br>
   <hr>
-  <?php while (have_posts()) : the_post(); ?>
-    <?php get_template_part('templates/page', 'header'); ?>
-  
-    <?php get_template_part('templates/content', 'page'); ?>
-  <?php endwhile; ?>
+  </br></br>
+
+</div> <!-- /container -->
+
+<div class="jumbotron">
+  <div class="container" style="padding-left: 0px; padding-right: 0px;">
+    <div class="col-md-12">
+      <h2 class="text-center">"Education is the most powerful weapon which you can use to </br>change the world."</h2>
+      <p class="text-right">-Nelson Mandela</p>
+    </div>
+  </div>
+</div>
+
+<div class="container marketing">
+  </br></br>
+  <hr>
+  </br></br>
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-1" >
+    </div>
+    <div class="col-md-10" >
+      <h4 class="text-center">This project is maintained by an active global community of volunteers looking to revolutionize and democratize education through the disruptive use of technology and grassroots movements.</h4>
+      <h1 class="text-center">Get involved!</h1>
+      </br></br>
+    </div>
+    <div class="col-md-1" >
+    </div>
+    </br></br>
+    <div class="col-lg-3">
+      <a href="http://www.xsce.org/dokuwiki/" target="_blank"><img class="img" src="<?php bloginfo('template_directory'); ?>/images/wiki.svg" alt="Wiki" style="width: 140px; height: 140px;"></a>
+      <h3>Wiki</h3>
+      <p></p>
+    </div>
+    <div class="col-lg-3">
+      <a href="http://lists.laptop.org/listinfo/server-devel" target="_blank"><img class="img" src="<?php bloginfo('template_directory'); ?>/images/mailinglist.svg" alt="Mailing list" style="width: 140px; height: 140px;"></a>
+      <h3>Mailing list</h3>
+      <p></p>
+   </div>
+    <div class="col-lg-3">
+      <a href="https://kiwiirc.com/client/irc.freenode.net/schoolserver" target="_blank"><img class="img" src="<?php bloginfo('template_directory'); ?>/images/irc.svg" alt="IRC chat" style="width: 140px; height: 140px;"></a>
+      <h3>IRC Live chat</h3>
+      <p></p>
+    </div>
+    <div class="col-lg-3">
+      <img class="img" src="<?php bloginfo('template_directory'); ?>/images/events.svg" alt="Events" style="width: 140px; height: 140px;">
+      <h3>Events</h3>
+      <p></p>
+    </div>
+  </div>
+
+  </br></br>
+  <hr>
+  </br></br>
 
   <footer>
     <p>&copy; The Schoolserver community</p>
